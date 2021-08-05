@@ -1,0 +1,10 @@
+{
+  "simulatedData": false,
+  "interval": 2000,
+  "deviceId": "MyDevice",
+  "messageMax": 256,
+  "credentialPath": "~/.iot-hub",
+  "temperatureAlert": 30,
+  "transport": "mqtt",
+  "iotEdgeRootCertFilePath": null
+}
